@@ -1,0 +1,26 @@
+{
+  "name": "lolid",
+  "version": "1.0.0",
+  "description": "MoePanel Daemon",
+  "main": "lolid.js",
+  "scripts": {
+    "test": "echo no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoePanel/lolid.git"
+  },
+  "keywords": [
+    "daemon"
+  ],
+  "author": "MoePanel Development",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MoePanel/lolid/issues"
+  },
+  "homepage": "https://www.moepanel.me",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
